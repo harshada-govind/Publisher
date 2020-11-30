@@ -107,3 +107,4 @@ C:\Projects\PubSub\Publisher\MessagePublisher\MessagePublisher\obj\Debug\netcore
 C:\Projects\PubSub\Publisher\MessagePublisher\MessagePublisher\obj\Debug\netcoreapp3.1\MessagePublisher.pdb
 C:\Projects\PubSub\Publisher\MessagePublisher\MessagePublisher\obj\Debug\netcoreapp3.1\MessagePublisher.genruntimeconfig.cache
 C:\Projects\PubSub\Publisher\MessagePublisher\MessagePublisher\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\PubSub\Publisher\MessagePublisher\MessagePublisher\obj\Debug\netcoreapp3.1\MessagePublisher.csprojAssemblyReference.cache
